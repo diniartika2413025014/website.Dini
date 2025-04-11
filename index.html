@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portal Mahasiswa</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Portal Mahasiswa</h1>
+    <nav>
+      <ul>
+        <li><a href="#profil">Profil</a></li>
+        <li><a href="#jadwal">Jadwal Kuliah</a></li>
+        <li><a href="#tugas">Tugas</a></li>
+        <li><a href="#kontak">Kontak</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="profil">
+      <h2>Profil Mahasiswa</h2>
+      <p>Nama: <span id="Nama">Dini Artika Rahmawati</span></p>
+      <p>NIM: <span id="NPM">2413025014</span></p>
+      <p>Program Studi: Pendidikan Teknologi Informasi</p>
+    </section>
+
+    <section id="jadwal">
+      <h2>Matakuliah</h2>
+      <ul id="list-jadwal">
+        <li>Jum'at - Grafika Komputer</li>
+      </ul>
+    </section>
+
+    <section id="tugas">
+      <h2>Daftar Tugas</h2>
+      <input type="text" id="inputTugas" placeholder="Tulis tugas..." />
+      <button onclick="tambahTugas()">Tambah</button>
+      <ul id="daftarTugas"></ul>
+      <h3>Form Pengumpulan Tugas</h3>
+<form id="formTugas" onsubmit="kumpulTugas(event)">
+  <label for="namaTugas">Nama Tugas:</label><br />
+  <input type="text" id="namaTugas" required /><br /><br />
+
+  <label for="fileTugas">Upload File:</label><br />
+  <input type="file" id="fileTugas" required /><br /><br />
+
+  <button type="submit">Kumpulkan</button>
+</form>
+
+<ul id="hasilPengumpulan"></ul>
+    </section>
+
+    <section id="kontak">
+      <h2>Kontak</h2>
+      <p>Email: diniartika64819@gmail.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Portal Mahasiswa</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
