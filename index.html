@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portofolio Cewek</title>
+  <title>Portofolio Dini Artika</title>
   <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
     :root {
@@ -159,7 +159,7 @@
     <section id="about">
       <h2>Tentang Saya</h2>
       <div class="about">
-        <p>Saya adalah mahasiswi Universitas Lampung, Fakultas Keguruan dan Ilmu Pendidikan, Program Studi Pendidikan Teknologi Informasi.Website ini adalah forum pengumpulan tugas proyek Matakuliah Grafika Komputer</p>
+        <p>Saya adalah mahasiswi Universitas Lampung, Fakultas Keguruan dan Ilmu Pendidikan, Program Studi Pendidikan Teknologi Informasi. Website ini adalah forum pengumpulan tugas proyek Matakuliah Grafika Komputer</p>
       </div>
     </section>
 
@@ -174,7 +174,7 @@
             <a href="https://drive.google.com/file/d/1CxqiEqW4jv6DxjeyD8GCHS4kTuZPGXgq/view?usp=drivesdk" target="_blank" style="color:#ffdd00;">Lihat Video</a>
           </p>
           <p><strong>Dokumen PDF:</strong> 
-            <a href="dokumen/konten-edukasi.pdf" target="_blank" style="color:#ffdd00;">Lihat PDF</a>
+            <a href="dokumen/tokoh_perintis.pdf" target="_blank" style="color:#ffdd00;">Lihat PDF</a>
           </p>
         </div>
     
@@ -185,7 +185,7 @@
             <a href="https://drive.google.com/drive/folders/1AIXyhZvffX2AY_jPkPoJunAnrBPxqI8r?usp=sharing" target="_blank" style="color:#ffdd00;">Lihat Video</a>
           </p>
           <p><strong>Dokumen PDF:</strong> 
-            <a href="dokumen/konten-edukasi.pdf" target="_blank" style="color:#ffdd00;">Lihat PDF</a>
+            <a href="dokumen/algoritma_garis.pdf" target="_blank" style="color:#ffdd00;">Lihat PDF</a>
           </p>
         </div>
     
@@ -196,13 +196,23 @@
             <a href="https://drive.google.com/file/d/1XkdiEDXPa_ZNw7U2xf7q6B3yTON7zXvH/view?usp=sharing" target="_blank" style="color:#ffdd00;">Lihat Video</a>
           </p>
           <p><strong>Dokumen PDF:</strong> 
-            <a href="dokumen/konten-edukasi.pdf" target="_blank" style="color:#ffdd00;">Lihat PDF</a>
+            <a href="dokumen/algoritma_lingkaran.pdf" target="_blank" style="color:#ffdd00;">Lihat PDF</a>
           </p>
         </div>
-    
+
+        <div class="project">
+          <h3>Tugas 4</h3>
+          <p>Algoritma Pembuatan Kurva</p>
+          <p><strong>Link Video:</strong> 
+            <a href="https://drive.google.com/file/d/1pxKRtNWVe_llTW8zPHvWO5RiNo-sHM7F/view?usp=sharing" target="_blank" style="color:#ffdd00;">Lihat Video</a>
+          </p>
+          <p><strong>Dokumen:</strong> 
+            <a href="dokumen/algoritma_kurva.pdf" target="_blank" style="color:#ffdd00;">Lihat Dokumen</a>
+          </p>
+        </div>
+
       </div>
     </section>
-    
 
     <section id="kontak">
       <h2>Kontak</h2>
@@ -217,10 +227,9 @@
         </div>
       </div>
     </section>
-    
 
     <footer>
-      &copy; Mahasiswi 2025. Dibuat dengan cinta 💖 dan inspirasi.
+      &copy; Mahasiswi Universitas Lampung. Dibuat dengan cinta 💖 dan inspirasi.
     </footer>
   </div>
 </body>
