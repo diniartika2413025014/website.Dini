@@ -174,7 +174,7 @@
             <a href="https://drive.google.com/file/d/1CxqiEqW4jv6DxjeyD8GCHS4kTuZPGXgq/view?usp=drivesdk" target="_blank" style="color:#ffdd00;">Lihat Video</a>
           </p>
           <p><strong>Dokumen PDF:</strong> 
-            <a href="dokumen/tokoh_perintis.pdf" target="_blank" style="color:#ffdd00;">Lihat PDF</a>
+            <embed src="dokumen/tokoh_perintis.pdf" width="600" height="500" type="application/pdf">
           </p>
         </div>
     
@@ -185,7 +185,7 @@
             <a href="https://drive.google.com/drive/folders/1AIXyhZvffX2AY_jPkPoJunAnrBPxqI8r?usp=sharing" target="_blank" style="color:#ffdd00;">Lihat Video</a>
           </p>
           <p><strong>Dokumen PDF:</strong> 
-            <a href="dokumen/algoritma_garis.pdf" target="_blank" style="color:#ffdd00;">Lihat PDF</a>
+            <embed src="dokumen/algoritma_garis.pdf" width="600" height="500" type="application/pdf">
           </p>
         </div>
     
@@ -196,7 +196,7 @@
             <a href="https://drive.google.com/file/d/1XkdiEDXPa_ZNw7U2xf7q6B3yTON7zXvH/view?usp=sharing" target="_blank" style="color:#ffdd00;">Lihat Video</a>
           </p>
           <p><strong>Dokumen PDF:</strong> 
-            <a href="dokumen/algoritma_lingkaran.pdf" target="_blank" style="color:#ffdd00;">Lihat PDF</a>
+            <embed src="dokumen/algoritma_lingkaran.pdf" width="600" height="500" type="application/pdf">
           </p>
         </div>
 
@@ -206,8 +206,8 @@
           <p><strong>Link Video:</strong> 
             <a href="https://drive.google.com/file/d/1pxKRtNWVe_llTW8zPHvWO5RiNo-sHM7F/view?usp=sharing" target="_blank" style="color:#ffdd00;">Lihat Video</a>
           </p>
-          <p><strong>Dokumen:</strong> 
-            <a href="dokumen/algoritma_kurva.pdf" target="_blank" style="color:#ffdd00;">Lihat Dokumen</a>
+          <p><strong>Dokumen PDF:</strong> 
+            <embed src="dokumen/algoritma_kurva.pdf" width="600" height="500" type="application/pdf">
           </p>
         </div>
 
