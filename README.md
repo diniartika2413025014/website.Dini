@@ -211,6 +211,50 @@
           </p>
         </div>
 
+        <div class="project">
+          <h3>Tugas 5</h3>
+          <p>Persamaan Misteri</p>
+          <p><strong>Link Video:</strong> 
+            <a href="tidak ada tugas video" target="_blank" style="color:#ffdd00;">Lihat Video</a>
+          </p>
+          <p><strong>Dokumen PDF:</strong> 
+            <embed src="dokumen/persamaan_misteri.pdf" width="600" height="500" type="application/pdf">
+          </p>
+        </div>
+
+        <div class="project">
+          <h3>Tugas 6</h3>
+          <p>Matriks Transformasi</p>
+          <p><strong>Link Video:</strong> 
+            <a href="https://drive.google.com/file/d/1I6hm5PObRP1oWysOz95FQyb9d8Hv86b3/view?usp=sharing" target="_blank" style="color:#ffdd00;">Lihat Video</a>
+          </p>
+          <p><strong>Dokumen PDF:</strong> 
+            <embed src="dokumen/matriks_transformasi.pdf" width="600" height="500" type="application/pdf">
+          </p>
+        </div>
+
+        <div class="project">
+          <h3>Tugas 7</h3>
+          <p>Line Clipping Algorithm</p>
+          <p><strong>Link Video:</strong> 
+            <a href="https://drive.google.com/file/d/1wAiqp7d0DSnufq2BiXkPlE-Rs9GzMkKU/view?usp=sharing" target="_blank" style="color:#ffdd00;">Lihat Video</a>
+          </p>
+          <p><strong>Dokumen PDF:</strong> 
+            <embed src="dokumen/Algoritma_Line Clipping.pdf" width="600" height="500" type="application/pdf">
+          </p>
+        </div>
+
+        <div class="project">
+          <h3>Tugas 8</h3>
+          <p>Polygon Clipping Algorithm</p>
+          <p><strong>Link Video:</strong> 
+            <a href="https://drive.google.com/file/d/1Z4OfvY1dGzH9V-TWvPYpYIRmyf-kNhUU/view?usp=sharing" target="_blank" style="color:#ffdd00;">Lihat Video</a>
+          </p>
+          <p><strong>Dokumen PDF:</strong> 
+            <embed src="dokumen/algoritma_clipping poligon.pdf" width="600" height="500" type="application/pdf">
+          </p>
+        </div>
+
       </div>
     </section>
 
